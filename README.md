@@ -1,0 +1,2 @@
+# LKSN-2022
+soal LKSN 2022
